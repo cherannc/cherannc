@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+DRAFT
+
+
+😄 Pronouns: she/they
+💼 linkedin.com/cherann
+🐍 I'm currently learning Python!
+
+
+-->
